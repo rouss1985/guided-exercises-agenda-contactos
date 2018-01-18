@@ -17,9 +17,9 @@
         $containerAddContact.attr("disabled", true);
        }
     //En esta funcion tenemos que validar que el usuario ingrese datos y no valores vacios
-  };
+  }
 
-  ||
+  
   var paintContactsInHTML = function(contact) {
 
 
